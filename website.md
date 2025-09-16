@@ -15,20 +15,24 @@
 
 ---
 
-💼 Work Experience
+## 💼 Work Experience
 &zwnj;Data Asset Management Center&zwnj;
 AI Algorithm Engineer | Jul 2025 - Present
 
 As an AI Algorithm Engineer, performed model training and inference adaptation and optimization across heterogeneous computing clusters including NVIDIA CUDA, AMD ROCm, Huawei Ascend architecture, and Hygon DCU architecture.
-🛠 Technical Skills
+
+---
+
+## 🛠 Projects
 Content to be updated...
 
-Projects
+---
+
+## 📜 Publications
 Content to be updated...
 
-📜 Publications
-Content to be updated...
+---
 
-🎯 Interests
-Basketball, Table Tennis, Violin, Clarinet
-Languages: English (IELTS 7.5, CET-6), Mandarin (Native)
+## 🎯 Interests
+- Basketball, Table Tennis, Violin, Clarinet
+- Languages: English (IELTS 7.5, CET-6), Mandarin (Native)
