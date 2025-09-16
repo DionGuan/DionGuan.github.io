@@ -1,7 +1,7 @@
-# Diyang Guan
+# Diyang Guan<br>
 
-📍 Shenzhen, China
-📧 diyanguan2-c@my.cityu.edu.hk / guandiyang@lgdgg.cc
+📍 Shenzhen, China<br>
+📧 diyanguan2-c@my.cityu.edu.hk / guandiyang@lgdgg.cc<br>
 
 ---
 
