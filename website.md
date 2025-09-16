@@ -11,6 +11,7 @@
 
 &zwnj;**Shenzhen University (SZU)**&zwnj;  
 *BEng in Computer Science and Technology (High Performance Computing)* | Sep 2019 - Jul 2023  
+- Research Areas: Parallel Computing, Computer Vision
 
 ---
 
